@@ -6,4 +6,6 @@
 	Zero is not a positive number
 */
 
-bool isPositive(int a);
+bool isPositive(int a) {
+	return (a > 0);
+}
